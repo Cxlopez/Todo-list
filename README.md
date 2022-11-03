@@ -4,7 +4,7 @@ This is just a simple Todo list that lets you `add`, `edit` & `delete` your task
 
 ## Project Demo
 
-![demo gif](https://user-images.githubusercontent.com/93356900/199811227-2e85325d-7fe1-4544-8100-a85d31e0c9a9.mov)
+![demo gif](https://thumbs.gfycat.com/FilthyHelpfulErne-mobile.mp4)
 
 ## Setup
 - Fork and clone this repo
