@@ -61,21 +61,10 @@ h1 {
   cursor: pointer;
   outline: none;
   background: linear-gradient(90deg,
-      rgb(245, 174, 225) 0%,
-      rgb(209, 177, 209) 100%);
+      rgb(243, 174, 151) 0%,
+      rgb(242, 216, 216) 100%);
   color: #fff;
   text-transform: capitalize;
-}
-
-.todo-input.edit {
-  border: 2px solid #149fff;
-}
-
-.todo-button.edit {
-  background: linear-gradient(90deg,
-      rgba(20, 159, 255, 1) 0%,
-      rgba(17, 122, 255, 1) 100%);
-  padding: 16px 22px;
 }
 
 .todo-container {
