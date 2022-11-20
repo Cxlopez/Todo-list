@@ -10,7 +10,7 @@ This is just a simple Todo list that lets you `add`, `edit` & `delete` your task
 
 ## Setup
 - Fork and clone this repo
-- Install dependencies with 'npm install'
+- Install dependencies with `npm install`
 - Run server with `npm start`
 
 
