@@ -1,8 +1,8 @@
 # Todo List
 
-This is just a simple Todo list that lets you `add`, `edit` & `delete` your tasks for the day.
+This is a simple Todo list that lets you `add`, `edit` & `delete` your tasks for the day.
 
-## Project Demo
+## Project Photo
 
 ![demo photo](https://user-images.githubusercontent.com/93356900/199813069-1dd4c9aa-0362-411e-8efb-5ce95c56c161.png)
 
